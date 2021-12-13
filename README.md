@@ -1,4 +1,4 @@
-# Tea Cosy Tearooms
+# Tea Cozy Tearooms
 
 A frontpage for a fictional Tea Room company
 
